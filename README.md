@@ -1,1 +1,1 @@
-Esto es un repositori ode prueba del master de Data Science & IA de Evolve Academy
+Esto es un repositorio de prueba del master de Data Science & IA de Evolve Academy
